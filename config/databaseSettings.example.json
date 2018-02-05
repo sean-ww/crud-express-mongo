@@ -1,0 +1,7 @@
+{
+  "mongo": {
+    "uri": "ds125368.mlab.com:25368/star-wars-quotes",
+    "user": "app",
+    "password": "secret"
+  }
+}
